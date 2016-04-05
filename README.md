@@ -6,5 +6,5 @@ The data file created is compatible with KSTPlot which allows realtime strip cha
 * Here is a video of the Realtime plotting with KST plot:   https://youtu.be/VfoFPBPQ-aQ
 * Here is a link to Kst plotting software:   https://kst-plot.kde.org/
 
-![Visualizer Screen Capture](https://github.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/blob/master/Visualizer.JPG?raw=true)
-![Plotter Screen Capture](https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/Plotter.JPG)
+![Visualizer Screen Capture](https://github.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/blob/master/Visualizer.JPG =250x)
+![Plotter Screen Capture](https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/Plotter.JPG =250x)
