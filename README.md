@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master
 
 <img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/Visualizer.JPG width=400 height=400 />
 
-<img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/KST%20Cap.jpg width=450 height=400 />
+<img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/KST%20Cap.jpg width=500 height=400 />
 
 Keyboard Menu (When Focus is Processing Graphics output window)
 * press H to show/hide Help
