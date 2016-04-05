@@ -13,7 +13,7 @@ The data file created is compatible with KSTPlot which allows realtime strip cha
 
 https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/Screen%20Capture.jpg
 
-<img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/Screen%20Capture.jpg width=500 height=400 />
+<img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/Screen%20Capture.jpg width=650 height=400 />
 
 <img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/Visualizer.JPG width=400 height=400 />
 
