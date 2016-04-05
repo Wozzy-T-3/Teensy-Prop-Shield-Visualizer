@@ -2,7 +2,7 @@
 //
 // You *must* perform a magnetic calibration before this code will work.
 //
-// To view this data, use the Arduino Serial Monitor to watch the
+// To view this data, use the Arduino Serial Monitor to watch the 
 // scrolling angles, or run the OrientationVisualiser example in Processing.
 
 #include <NXPMotionSense.h>
