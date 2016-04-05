@@ -15,3 +15,11 @@ The data file created is compatible with KSTPlot which allows realtime strip cha
 <img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/Visualizer.JPG width=400 height=400 />
 
 <img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/Plotter.JPG width=450 height=400 />
+
+Keyboard Menu (When Focus is Processing Graphics output window)
+* press H to show/hide Help
+* press F to show/hide Fps
+* press U to show/hide orientation Update rate
+* press N to show/hide yaw, pitch and roll Numbers
+* press L to open to start/stop data Logging
+*press Z or X to adjust yaw to match view angle
