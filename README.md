@@ -11,10 +11,13 @@ The data file created is compatible with KSTPlot which allows realtime strip cha
 * Here is a video of the Realtime plotting with KST plot:   https://youtu.be/VfoFPBPQ-aQ
 * Here is a link to Kst plotting software:   https://kst-plot.kde.org/
 
+https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/Screen%20Capture.jpg
 
-<img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/Visualizer.JPG width=400 height=400 />
+<img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/Screen%20Capture.jpg width=500 height=400 />
 
-<img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/Plotter.JPG width=450 height=400 />
+<img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/Visualizer.JPG width=400 height=400 />
+
+<img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/KST%20Cap.jpg width=450 height=400 />
 
 Keyboard Menu (When Focus is Processing Graphics output window)
 * press H to show/hide Help
