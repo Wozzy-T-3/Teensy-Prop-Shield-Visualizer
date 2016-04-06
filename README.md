@@ -7,7 +7,7 @@ Built off of Ben's Processing sketch:  https://forum.pjrc.com/threads/33328-Prop
 This modification adds the Teensy board to the rendering, and the ability to write output to a data file.
 The data file created is compatible with KSTPlot which allows realtime strip charting.
 
-* Here is a video of the Realtime IMU Visualization:   https://youtu.be/wPEwt0wln0A 
+* Here is a video of the Realtime IMU visualization:   https://youtu.be/wPEwt0wln0A 
 * Here is a video of the Realtime plotting with KST plot:   https://youtu.be/VfoFPBPQ-aQ
 * Here is a link to Kst plotting software:   https://kst-plot.kde.org/
 
@@ -17,13 +17,13 @@ The data file created is compatible with KSTPlot which allows realtime strip cha
 
 <img src=https://raw.githubusercontent.com/Wozzy-T-3/Teensy-Prop-Shield-Visualizer/master/images/KST%20Cap.jpg width=500 height=400 />
 
-Keyboard Menu (When Focus is Processing Graphics output window)
+Keyboard Menu (When focus is Processing graphics output window)
 * press H to show/hide Help
 * press F to show/hide Fps
 * press U to show/hide orientation Update rate
 * press N to show/hide yaw, pitch and roll Numbers
 * press L to open to start/stop data Logging
-*press Z or X to adjust yaw to match view angle
+* press Z or X to adjust yaw to match view angle
 
 * Here's a link to the PJRC Teensy 3.x:    http://www.pjrc.com/teensy/index.html
 * Here's a link to the PJRC Teensy Prop Shield:  http://www.pjrc.com/store/prop_shield.html
