@@ -25,5 +25,5 @@ Keyboard Menu (When Focus is Processing Graphics output window)
 * press L to open to start/stop data Logging
 *press Z or X to adjust yaw to match view angle
 
-Here's a link to the PJRC Teensy 3.x:    http://www.pjrc.com/teensy/index.html
-Here's a link to the PJRC Teensy Prop Shield:  http://www.pjrc.com/store/prop_shield.html
+* Here's a link to the PJRC Teensy 3.x:    http://www.pjrc.com/teensy/index.html
+* Here's a link to the PJRC Teensy Prop Shield:  http://www.pjrc.com/store/prop_shield.html
