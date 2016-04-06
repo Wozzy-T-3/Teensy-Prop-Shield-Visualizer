@@ -2,7 +2,7 @@
 Processing Sketch to Visualize IMU orientation from Teensy Prop Shield.
 * Reads the serial data stream from Teensy and renders a realtime Visualization.
 * Appends data to an output file which can be accessed for plotting a stripchart.
-Built off of Ben's Processing sketch,https://forum.pjrc.com/threads/33328-Prop-Shield-Beta-Test?p=100278&viewfull=1#post100278
+Built off of Ben's Processing sketch:  https://forum.pjrc.com/threads/33328-Prop-Shield-Beta-Test?p=100278&viewfull=1#post100278
 
 This modification adds the Teensy board to the rendering, and the ability to write output to a data file.
 The data file created is compatible with KSTPlot which allows realtime strip charting.
@@ -24,3 +24,6 @@ Keyboard Menu (When Focus is Processing Graphics output window)
 * press N to show/hide yaw, pitch and roll Numbers
 * press L to open to start/stop data Logging
 *press Z or X to adjust yaw to match view angle
+
+Here's a link to the PJRC Teensy 3.x:    http://www.pjrc.com/teensy/index.html
+Here's a link to the PJRC Teensy Prop Shield:  http://www.pjrc.com/store/prop_shield.html
